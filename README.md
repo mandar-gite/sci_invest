@@ -1,17 +1,20 @@
 ## Done
-<h3>Install the following </h3> 
-<ul> Pandas_TA</ul>
-<ul> yfinance</ul>
-<ul> Pandas</ul>
+<h3>1. Install</h3> 
+<h4> Pandas_TA</h4>
+<h4> yfinance</h4>
 
-<h3>Observations</h3>
 
-The data access conditions
-    - for half Hourly - last 60 days
-    - for by minute - last 7 days 
+Observations
+ The data access conditions
+    for half Hourly - last 60 days
+    for by minute - last 7 days 
 
-### TODO
+# TODO
 
-- Make list of indices, stocks to track 
-- Create reminders to download the data
-- 
+Automate the data download in the colab 
+
+Make list of the stocks to be tracked 
+
+
+
+
