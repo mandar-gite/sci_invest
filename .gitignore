@@ -13,4 +13,6 @@ profiles_settings.xml
 /data/
 vcs.xml
 .idea/
-
+.ipynb_checkpoints
+cm26JUL2023bhav.csv.zip
+ta.ipynb
