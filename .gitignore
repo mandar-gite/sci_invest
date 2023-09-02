@@ -14,5 +14,8 @@ profiles_settings.xml
 vcs.xml
 .idea/
 .ipynb_checkpoints
-cm26JUL2023bhav.csv.zip
+data/cm26JUL2023bhav.csv.zip
 ta.ipynb
+/sci_inv/ 
+config.json
+venv/
