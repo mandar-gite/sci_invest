@@ -6,4 +6,4 @@ six==1.16.0
 sqlalchemy
 mysql-connector-python
 seaborn
-matplotlib.pyplot
+matplotlib
